@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DailyPocket</string>
+    <string name="menu_description">Menu</string>
+    <string name="profile_text">Profile</string>
+    <string name="calendar_text">Calendar</string>
+    <string name="tree_text">Tree</string>
+    <string name="notice_text">Notice</string>
+    <string name="profile_page_label">Profile Page</string>
+    <string name="calendar_page_label">Calendar Page</string>
+    <string name="tree_page_label">Tree Page</string>
+    <string name="notice_page_label">Notice Page</string>
+    <string name="back">Back</string>
+</resources>
